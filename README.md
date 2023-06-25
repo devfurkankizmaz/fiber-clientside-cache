@@ -35,6 +35,10 @@ go mod download
 ```bash
 go run main.go
 ```
+or
+```bash
+make docker-run
+```
 
 The server will be available at `http://localhost:3000`.
 
