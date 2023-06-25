@@ -1,4 +1,3 @@
-```
 # Fiber Client-Side Caching CRUD API
 
 This is a simple API built with Go and Fiber framework to demonstrate client-side caching. The API provides endpoints for managing a task collection.
@@ -10,7 +9,7 @@ This is a simple API built with Go and Fiber framework to demonstrate client-sid
 - `POST /api/tasks` endpoint adds a new task to the collection.
 - `PUT /api/tasks/:id` endpoint updates an existing task.
 - `DELETE /api/tasks/:id` endpoint deletes a task from the collection.
-```
+
 ## Installation
 
 1. Clone the repository:
